@@ -77,6 +77,7 @@ source : [wikipedia](https://fr.wikipedia.org/wiki/Copyleft)
 * Le 17/03 à 14h [Table d'hôte numerique](http://lacantine-toulouse.org/7691/table-d-hote-numerique)
 
 12. Qui est Aaron Swartz ?
+
 M. Swartz était un jeune prodige qui, à l'adolescence, avait aidé à créer la technologie RSS. Il a cofondé Reddit et a dirigé le groupe d'action politique Demand Progress qui lutte contre la censure sur Internet.
 
 [Source](https://fr.wikipedia.org/wiki/Aaron_Swartz)
