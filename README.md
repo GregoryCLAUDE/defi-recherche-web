@@ -29,4 +29,22 @@
 >
 >* 127.0.0.1 : c'est le [localhost](https://fr.wikipedia.org/wiki/Localhost) ou l'ordianteur local(son interface logique).
 
+4. Que sont le copyright et le copyleft ?
 
+>* Le copyright :Un ensemble de lois en application notamment dans les pays du [Commonwealth](https://fr.wikipedia.org/wiki/Commonwealth) et aux Etats-unis. Ils osnt différents des droits d'auteurs appliqués dans les pays de droits civiques.
+>
+>* Le copyleft : C'est l'autorisation d'un auteur donné sur sa propriété intellectuelle(oeuvre d'art, programme informatique, etc...), donc soumis au droits d'auteurs, d'utiliser, d'étudier, de modifier, de diffuser sa propriété dans la mesure où cette même autorisation reste préservé. Ce type de licence permet un partage de la création ou de la connaissance, comme bien commun, qui permet aux oeuvre culturelles d'être dévellopées librement.
+source : [wikipedia](https://fr.wikipedia.org/wiki/Copyleft)
+
+5. Que sont les Creatives Commons ?
+> C'est une Organisation à but non lucratif qui à pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l'ère numérique. Sont a disposition des contrats-type(licences) de type "open"pour les auteurs qui souhaitent partager et faciliter l'utilisation de leur(s) création(s).
+[CréativeCommons](http://creativecommons.fr/)
+
+6. Qui est Grace Hopper?
+![Commodore Grace M. Hooper](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/800px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg)
+> Militaire de la marine américaine, hautement décorée. Elle fait partie de l'équipe de [Howard Aiken](https://fr.wikipedia.org/wiki/Howard_Aiken) et travaille sur Harvard Mark I (un des premier grand calculateur numerique entièrement automatique) avec deux autres personnes.
+> Selon l'anecdote elle serais a l'origine de la popularisation du terme "bug" (pour siginifier un problème informatique), aprés avoir trouvé une mite(moth) qui était a l'origine d'une panne dans le Mark II.
+>Elle est a l'origine de l'idée d'un language plus proche de l'anglais pour remplacer le language machine, et travaille sur l'établissement de normes pour les ordinateurs, en particulier les premiers languages de programmation : Le [Fortran](https://fr.wikipedia.org/wiki/Fortran) et le [COBOL](https://fr.wikipedia.org/wiki/COBOL).
+>Respect Mme Hopper!
+
+7. Qu'est-ce que Qwant ?
