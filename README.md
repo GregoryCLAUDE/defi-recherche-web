@@ -47,4 +47,8 @@ source : [wikipedia](https://fr.wikipedia.org/wiki/Copyleft)
 >Elle est a l'origine de l'idée d'un language plus proche de l'anglais pour remplacer le language machine, et travaille sur l'établissement de normes pour les ordinateurs, en particulier les premiers languages de programmation : Le [Fortran](https://fr.wikipedia.org/wiki/Fortran) et le [COBOL](https://fr.wikipedia.org/wiki/COBOL).
 >Respect Mme Hopper!
 
-7. Qu'est-ce que Qwant ?
+7. Qu'est-ce que [Qwant](https://www.qwant.com/?l=fr) ?
+
+> C'est un moteur de recherche français (cocorico!!) qui protège la vie privée en annonçant ne pas tracer ses utilisateurs, et de ce fait est totalement neutre dans l'affichage des résultats. Lancé Le 4 juillet 2013, une nouvelle version de son moteur a été publié en avril 2015. source [Wikipédia](https://fr.wikipedia.org/wiki/Qwant)
+
+
