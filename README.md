@@ -20,13 +20,13 @@
 
 3. Qu'est-ce que cela :
 
->*8.8.8.8 : c'est l'adresse IP du service DNS de Google. Ce service a pour but d'accélérer la navigation avec un DNS remis à jour plus rapidement. Cependant [korben.info](https://korben.info/dns-google.html) soulève certains problèmes.
+>* 8.8.8.8 : c'est l'adresse IP du service DNS de Google. Ce service a pour but d'accélérer la navigation avec un DNS remis à jour plus rapidement. Cependant [korben.info](https://korben.info/dns-google.html) soulève certains problèmes.
 >
->*192.168.0.1 : C'est l'adresse IP par défaut du routeur privé.
+>* 192.168.0.1 : C'est l'adresse IP par défaut du routeur privé.
 [source](https://www.lifewire.com/192-168-0-1-818066)
 >
->*255.255.255.255 : c'est l'adresse du [masque sous réseaux](https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau#Masque_de_sous-r.C3.A9seau). Une adresse IPv' étant composé de deux parties (le sous réseaux et l'hôte). Le masque sous réseaux est un masque (non?!!) (une suite logique pour sélectionner dans un groupe de bits un sous-ensemble de bits a conserver ou à écraser) indiquant le nombre de bits d'une adresse IPv4 utilisé pour identifier le sous réseaux et le nombre de bits caractérisant les hôtes(et accessoirement le nombre d'hôtes possibles). [Pour en savoir plus.](https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau#Masque_de_sous-r.C3.A9seau)
+>* 255.255.255.255 : c'est l'adresse du [masque sous réseaux](https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau#Masque_de_sous-r.C3.A9seau). Une adresse IPv' étant composé de deux parties (le sous réseaux et l'hôte). Le masque sous réseaux est un masque (non?!!) (une suite logique pour sélectionner dans un groupe de bits un sous-ensemble de bits a conserver ou à écraser) indiquant le nombre de bits d'une adresse IPv4 utilisé pour identifier le sous réseaux et le nombre de bits caractérisant les hôtes(et accessoirement le nombre d'hôtes possibles). [Pour en savoir plus.](https://fr.wikipedia.org/wiki/Sous-r%C3%A9seau#Masque_de_sous-r.C3.A9seau)
 >
->*127.0.0.1 : c'est le [localhost](https://fr.wikipedia.org/wiki/Localhost) ou l'ordianteur local(son interface logique).
+>* 127.0.0.1 : c'est le [localhost](https://fr.wikipedia.org/wiki/Localhost) ou l'ordianteur local(son interface logique).
 
 
